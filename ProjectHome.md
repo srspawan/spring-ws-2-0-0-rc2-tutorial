@@ -1,0 +1,1 @@
+A tutorial for building a Spring WS application using using the latest 2.0.0 RC2 build
